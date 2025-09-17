@@ -2,7 +2,7 @@
   "Descriptor": {
     "UId": "a00051f4-cde3-4f3f-b08e-c5ad1a5c735a",
     "Name": "Custom",
-    "ModifiedOnUtc": "\/Date(1753906459000)\/",
+    "ModifiedOnUtc": "\/Date(1758034983000)\/",
     "Maintainer": "Customer",
     "Description": "Custom Package",
     "DependsOn": [
@@ -708,6 +708,11 @@
         "UId": "d0930f39-0240-7da1-bbf2-c54f103a3a1f",
         "PackageVersion": "7.8.0",
         "Name": "CrtCopilotStudio",
+        "Type": 1
+      },
+      {
+        "UId": "d0e7f94d-8180-4ee9-bbf3-6345c5702042",
+        "Name": "UsrYacht",
         "Type": 1
       },
       {
